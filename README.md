@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- Top hero (optional): a clean banner or drone silhouette -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4434de65-000f-4d76-b933-0f4b486c6dab" alt="COAXIAL UAV & GCS" width="820">
+</p>
 
-<!--
-**Yisak2023/Yisak2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Yisak </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building UAV autonomy (PX4/ArduPilot),
+  and formation control with robust comms real-time Ground Control Stations (PyQt5) & video pipelines.
+</p>
+
+---
