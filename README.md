@@ -1,6 +1,6 @@
 <!-- Top hero (optional): a clean banner or drone silhouette -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4434de65-000f-4d76-b933-0f4b486c6dab" alt="COAXIAL UAV & GCS" width="820">
+  <img src="https://github.com/user-attachments/assets/1bf31b30-ebe0-410c-86ab-0817f5597bb3" alt="COAXIAL UAV & GCS" width="820">
 </p>
 
 
